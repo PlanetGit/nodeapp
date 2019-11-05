@@ -1,0 +1,20 @@
+{
+	"name": "MiunaShoutboxServer",
+	"version": "9.2.0",
+	"description": "Server of Miuna shoutbox for Mybb",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"body-parser": "~1.18.2",
+		"cors": "~2.8.4",
+		"ejs": "~2.5.7",
+		"express": "~4.16.2",
+		"jsonwebtoken": "~8.1.0",
+		"mongoose": "~4.11.2",
+		"node-xss": "~0.0.1",
+		"socket.io": "~2.0.3",
+		"socketio-jwt": "^4.5.0",
+		"xtend": "~4.0.1"
+	}
+}
