@@ -1,3 +1,3 @@
-# nodeapp
+# Miuna Shout Box
 
-This is node app to control the chat box of miuna shout box.
+This is the backend app  to control the chat box of miuna shout box.
